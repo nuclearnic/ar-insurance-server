@@ -1,5 +1,7 @@
 require 'sinatra'
 
+set :port, 8080
+
 post '/' do
   body = read_body(request)
   puts(body)
