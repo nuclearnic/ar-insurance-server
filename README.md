@@ -1,1 +1,3 @@
-## Usage
+* Clone
+* bundle
+* `$ ruby server.rb`
